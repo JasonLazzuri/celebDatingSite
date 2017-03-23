@@ -1,0 +1,22 @@
+img{
+  height: 200px;
+  width: auto;
+}
+
+
+/*celebs*/
+#select{
+  display: none;
+}
+.adam{
+  display: none;
+}
+.ray{
+  display: none;
+}
+.tina{
+  display: none;
+}
+.amy{
+  display: none;
+}
